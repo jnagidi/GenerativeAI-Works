@@ -23,7 +23,7 @@ Code Generation and Assistance: With models like OpenAI's Codex, LLMs can genera
 Sentiment Analysis: They can analyze the sentiment of a given piece of text, categorizing it as positive, negative, or neutral, and are often used in social media monitoring and customer feedback analysis.
 Chatbots and Virtual Assistants: Many AI-driven virtual assistants, like Siri, Alexa, and Google Assistant, rely on LLMs for natural language understanding and generation.
 
-4. Challenges of LLMs
+4. Challenges of 
 While LLMs are powerful, they also come with several challenges:
 
 Bias: Since LLMs are trained on large datasets that include human-written text, they may learn and reproduce biases present in the data. These biases can manifest in harmful stereotypes, discrimination, and unfair treatment of certain groups.
